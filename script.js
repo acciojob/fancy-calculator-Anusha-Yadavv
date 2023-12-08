@@ -11,5 +11,5 @@ function fancy_calculator(v1,v2) {
 
 let value1=promt();
 let value2=promt();
-alert(fancy_calculator);
+alert(fancy_calculator(value1,value2));
 
